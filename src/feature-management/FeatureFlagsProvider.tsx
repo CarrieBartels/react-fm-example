@@ -4,7 +4,7 @@ import {flags} from "./flags.ts";
 import {FeatureFlagsContext, initialFlagState} from "./index.ts";
 
 // TODO: insert your SDK key from https://cloudbees.io/ below.
-const sdkKey = '<YOUR-SDK-KEY>'
+const sdkKey = 'c15eba7c-f416-4883-4136-4354fbd0fccf'
 
 type Props = {
   children?: React.ReactNode
